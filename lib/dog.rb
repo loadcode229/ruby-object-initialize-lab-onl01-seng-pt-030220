@@ -19,4 +19,8 @@ class Dog
     end
   end
   
+  def breed
+    @breed
+  end
+  
 end
